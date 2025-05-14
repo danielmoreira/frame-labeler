@@ -2,6 +2,8 @@
 
 A software tool to extract and label video frames for binary classification.
 
+![Tool Screenshot](example.gif)
+
 ## Features
 
 The tool is executed from a command-line interface.

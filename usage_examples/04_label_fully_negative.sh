@@ -4,4 +4,4 @@
 # Usage: ./04_label_fully_negative.sh
 
 # runs the frame labeler; labels will be saved inside the "./neg_labels" folder
-../build/frame_labeler 2 -i ./video_list.txt -e arc -o ./neg_labels
+../build/framelabeler 2 -i ./video_list.txt -e arc -o ./neg_labels
